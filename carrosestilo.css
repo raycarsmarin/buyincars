@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color:;
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:#000000 ;
+    
+}
+#logo{
+    width: 15%;
+    height: 100%;
+}
+#logo img{
+    width: 80%;
+    height: 100%;
+    
+}
+
+h1{
+ color:darkorange;
+    
+}
+nav ul{
+    
+    list-style: none;
+    width: 700px;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+}
+nav a{
+    text-decoration: none;
+    color: ;
+    
+}
+main{
+    padding-top: 10vh;
+    background-color:#3c3c3c;
+    height: 100vh;
+   
+   
+}
+#propaganda{
+    width: 100%;
+    height: 70%;
+}
+
+#propaganda img{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+#imagemdcarro{
+    
+    width: 100%;
+    height: 70%;
+    margin: auto;
+    background-color: #3c3c3c;
+ ;
+    display: flex;
+}
+.links{
+    
+    font-family: 'Bree Serif',Serif;
+    font-size: 30px;
+    color: ;
+    
+}
+#golf{
+    width: 100%;
+    height:100%;
+    text-align: center;
+    text-decoration-color: #000000;
+    padding-left: 0px;
+    
+}
+#golf img {
+    width: 70%;
+    height: 100%;
+ 
+}
+#toro{
+    
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+#toro img{
+    width: 60%;
+    height: 100%;
+    
+}
+
+#corola{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+  background-color: #3c3c3c;
+
+    
+}
+#corola img{
+    width: 50%;
+    height: 100%;
+}
+#uno{
+    width: 100%;
+    height:100%;
+    text-align: center;
+    text-decoration-color: white;
+    padding-bottom: 20px;
+    padding-top: 100px;
+    
+}
+#uno img {
+    width: 80%;
+    height: 50%;
+ 
+}
+#honda{
+    
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 100px;
+}
+#honda img{
+    width: 80%;
+    height: 50%;
+    
+}
+
+
+section{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    background-color: #3c3c3c;
+    
+}
+h2{
+    color: #f9f9f9;
+    text-align: center;
+}
+#mapa{
+    width: 100%;
+}
+footer{
+    
+background-color:#FF8C00;
+    text-align: center;
+    
+}
+#header2{
+    background-color: #FFE4C4;
+    align-items: center;
+}
+
+
+
+
